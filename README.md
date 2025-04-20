@@ -1,15 +1,17 @@
-Jogo de Dados
-Um pequeno jogo de dados feito com o objetivo de praticar lógica de programação e manipulação de interfaces simples. O jogo simula o lançamento de dados e determina o vencedor com base no valor obtido.
+# Jogo da memória
 
-Funcionalidades
-Lança dois dados (um para cada jogador)
-Mostra o resultado de cada jogador
-Exibe quem venceu ou se houve empate
-Tecnologias utilizadas
-HTML5
-CSS3
-JavaScript (puro)
-Como rodar o projeto
-Clone o repositório:
+##🎮 Como funciona
 
-git clone https://github.com/FranciscoCampUz/jogoDeDados.git
+O jogo mostra uma sequência de cores. Você precisa repetir a sequência clicando nos botões coloridos. A cada nível, a sequência aumenta. Se errar, o jogo reinicia
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (puro)
+
+## Como executar o projeto
+
+1. Clone o repositório:
+   
+   git clone https://github.com/FranciscoCampUz/SimonGame.git
